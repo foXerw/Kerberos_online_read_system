@@ -1,0 +1,1 @@
+add_executable(krb_win krb_win.cpp)
