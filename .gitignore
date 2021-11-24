@@ -33,3 +33,8 @@
 
 # build
 build/
+
+# windows
+.vs/
+.vscode
+windows/socket/tcp/build/

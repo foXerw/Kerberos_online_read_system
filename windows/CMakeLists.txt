@@ -1,1 +1,1 @@
-add_executable(krb_win krb_win.cpp)
+add_executable(krb_win krb_win.cpp "socket/tcp/server/test_tcp_server.cpp" "socket/tcp/client/test_tcp_client.cpp")
